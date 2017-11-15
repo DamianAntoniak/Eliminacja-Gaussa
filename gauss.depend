@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485373007 source:c:\users\damian\documents\gauss\gauss\main.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<math.h>
+
